@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pcm27 
-- 👀 I’m interested in codin, music,learning things
+- 👀 I’m interested in coding, music,learning things
 - 🌱 I’m currently learning to code 
   
   
